@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "A Comparative Study on the Efficiency and Applicability of Python and R for Data Science Tasks"
+message: "If you use this repository, please cite the associated research paper."
+type: software
+authors:
+  - given-names: Tabassum
+    family-names: Unnisa
+    orcid: https://orcid.org/0009-0005-3967-7304
+repository-code: https://github.com/< https://github.com/tabassumunnisa19>/<A-Comparative-Study-on-the-Efficiency-and-Applicability-of-Python-and-R-for-Data-Science-Tasks>
+keywords:
+  - Data Science
+  - Python
+  - R
+  - Machine Learning
+  - Statistical Computing
+  - Reproducible Research
+version: 1.0.0
+date-released: 2025-01-01
+license: MIT
